@@ -1,61 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">An aspiring Software Engineer from India</h3>
+<!-- Animated Heading -->
+<h1 align="center">Hi there, I'm <span style="color:#5bc0de">Ritesh Kumar</span> 👋</h1>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+  <a href="https://riteshkumar2e.github.io/Portfolio/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;SpringBoot+Backend+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **Machine Learning projects**
-- 🌱 I’m currently learning **SpringBoot, TensorFlow, and Keras**
-- 💬 Ask me about **Python, ML, SpringBoot, and SQL**
-- 📫 How to reach me: [riteshkumar90359@gmail.com](mailto:riteshkumar90359@gmail.com)
+<!-- GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="developer animation"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Steel Defect Detection ML Project**
+- 🌱 Learning **SpringBoot, TensorFlow, and Keras**
+- 💬 Ask me about: `Python`, `ML`, `SpringBoot`, `SQL`
+- 📫 Reach me at: [riteshkumar90359@gmail.com](mailto:riteshkumar90359@gmail.com)
 - 🌐 Visit my [Portfolio](https://riteshkumar2e.github.io/Portfolio/)
+- ⚡ Fun Fact: I love solving coding problems & building full-stack projects.
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C/C++, Python, JavaScript, HTML, CSS  
-- **Frameworks:** SpringBoot, TensorFlow, Keras  
-- **Libraries & Tools:** NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn  
-- **Database:** MySQL  
-- **Cloud:** Google Cloud Platform (GCP)  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-- **Coursework:** DSA, OOPs, DBMS, Software Engineering  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,spring,mysql,git,github,vscode,bootstrap,tensorflow,keras" />
+</p>
 
 ---
 
 ### 🚀 Projects
-- 🧠 [Age Gender Prediction](https://github.com/RiteshKumar2e/AGE_GENDER_PREDECTION.git) — Built a face detection and classification model using deep learning.  
-- 🍔 [Food & Recipe API App](https://github.com/RiteshKumar2e/Food---Recipe-API-App.git) — A responsive food recipe search app using MealDB API.  
-- 💉 [Blood Donation Forecast](https://github.com/RiteshKumar2e/Blood-Donation-Forecast.git) — Predicted blood donations using Random Forest and GridSearchCV.
 
----
-
-### 🏆 Achievements
-- ✅ NPTEL Certificate in **Database Management Systems**
-- 🚀 Organized **Hack Horizon 2K25** — a university-level hackathon
-- ☁️ Certified in **Google Cloud Fundamentals & Generative AI**
-
----
-
-### 🎓 Leadership & Extracurriculars
-- 📌 **Class Representative** at Arka Jain University  
-- 💼 **Community Lead** at GDG on Campus AJU  
-- 📚 **Team Member** of GATE Club  
+| Project | Description |
+|--------|-------------|
+| 🧠 [Age Gender Prediction](https://github.com/RiteshKumar2e/AGE_GENDER_PREDECTION.git) | Built a deep learning model for real-time age and gender prediction using Haarcascade and pre-trained models. |
+| 🍔 [Food & Recipe API App](https://github.com/RiteshKumar2e/Food---Recipe-API-App.git) | Responsive web app to find recipes based on ingredients, powered by MealDB API. |
+| 💉 [Blood Donation Forecast](https://github.com/RiteshKumar2e/Blood-Donation-Forecast.git) | Forecasted donor behavior using Random Forest and GridSearchCV for optimization. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=tokyonight" height="130"/>
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ritesh-kumar-b3a654253)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat)](https://github.com/RiteshKumar2e)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel)](https://riteshkumar2e.github.io/Portfolio/)
+<p align="center">
+  <a href="mailto:riteshkumar90359@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritesh-kumar-b3a654253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/RiteshKumar2e"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://riteshkumar2e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+### ✨ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiteshKumar2e&label=Profile+Views&color=0e75b6&style=flat" alt="RiteshKumar2e" />
+</p>
