@@ -26,12 +26,13 @@
 
 ---
 
+
 ### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,spring,mysql,git,github,vscode,bootstrap,tensorflow,keras" />
-</p>
-
+- **Languages:** C/C++, Python, JavaScript, HTML, CSS  
+- **Frameworks:** SpringBoot, TensorFlow, Keras  
+- **Libraries & Tools:** NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 ---
 
 ### 📊 GitHub Stats
