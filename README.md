@@ -34,16 +34,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| 🧠 [Age Gender Prediction](https://github.com/RiteshKumar2e/AGE_GENDER_PREDECTION.git) | Built a deep learning model for real-time age and gender prediction using Haarcascade and pre-trained models. |
-| 🍔 [Food & Recipe API App](https://github.com/RiteshKumar2e/Food---Recipe-API-App.git) | Responsive web app to find recipes based on ingredients, powered by MealDB API. |
-| 💉 [Blood Donation Forecast](https://github.com/RiteshKumar2e/Blood-Donation-Forecast.git) | Forecasted donor behavior using Random Forest and GridSearchCV for optimization. |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
