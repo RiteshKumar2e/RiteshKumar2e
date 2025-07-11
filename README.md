@@ -31,19 +31,6 @@
 
 ---
 
-### 🏆 Achievements
-- ✅ NPTEL Certificate in **Database Management Systems**
-- 🚀 Organized **Hack Horizon 2K25** — a university-level hackathon
-- ☁️ Certified in **Google Cloud Fundamentals & Generative AI**
-
----
-
-### 🎓 Leadership & Extracurriculars
-- 📌 **Class Representative** at Arka Jain University  
-- 💼 **Community Lead** at GDG on Campus AJU  
-- 📚 **Team Member** of GATE Club  
-
----
 
 ### 📊 GitHub Stats
 
