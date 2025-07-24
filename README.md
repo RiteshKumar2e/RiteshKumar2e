@@ -17,7 +17,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Steel Defect Detection ML Project**
+- 🔭 Currently working on a Steel Defect Detection ML Project using two datasets:
+
+SIC (Steel Surface Defect Classification) – 6-class classification
+
+NEU-DET (NEU Surface Defect Database) – proper defect detection and localization
+
 - 🌱 Learning **SpringBoot, TensorFlow, and Keras**
 - 💬 Ask me about: `Python`, `ML`, `SpringBoot`, `SQL`
 - 📫 Reach me at: [riteshkumar90359@gmail.com](mailto:riteshkumar90359@gmail.com)
