@@ -169,7 +169,7 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </p>
-      <a href="[https://github.com/RiteshKumar2e/Steel_Surface_Defect_NEU_DET-DATASET.git]">
+      <a href="(https://github.com/RiteshKumar2e/Steel_Surface_Defect_NEU_DET-DATASET.git)">
         <img src="https://img.shields.io/badge/View-Profile-181717?style=flat-square&logo=github"/>
       </a>
     </td>
