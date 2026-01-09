@@ -15,6 +15,28 @@
 
 ---
 
+### 📊 GitHub Stats Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiteshKumar2e&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🚀 Currently working on **Quickfix** - AI-Powered Customer Complaint Management Platform
@@ -49,7 +71,7 @@
 **🤖 AI-Powered Customer Complaint Management System**
 
 **Key Features:**
-- ⚡ **Multi-Tier AI System**: Groq  → Gemini → Local LLM → Rule-based
+- ⚡ **Multi-Tier AI System**: Groq → Gemini → Local LLM → Rule-based
 - 🚀 **Ultra-Fast**: 50-100ms response time with 100% uptime guarantee
 - 💰 **Cost-Effective**: $0/month with 15,900+ free daily requests
 - 🎯 **Intelligent**: Auto-classification, priority detection, sentiment analysis
@@ -67,12 +89,12 @@
 - 💵 90% cost reduction in AI operations
 - 🎯 100% reliability with intelligent fallback system
 
-
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -80,6 +102,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries:**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -87,16 +110,19 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **AI/ML & Data Science:**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases:**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & DevOps:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -104,22 +130,10 @@
 
 ---
 
-
-### 🔗 Connect With Me
+### 📈 Contribution Graph
 
 <p align="center">
-  <a href="mailto:riteshkumar90359@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ritesh-kumar-b3a654253">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RiteshKumar2e">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://riteshkumar2e.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
@@ -157,11 +171,33 @@
 
 ---
 
+### 🔗 Connect With Me
 
+<p align="center">
+  <a href="mailto:riteshkumar90359@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-kumar-b3a654253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/RiteshKumar2e">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://riteshkumar2e.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
+---
 
 ### ✨ Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshKumar2e&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" alt="Footer" />
 </p>
