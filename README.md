@@ -17,29 +17,38 @@
 
 ### 📊 GitHub Stats Overview
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=ffffff)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/RiteshKumar2e">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=ffffff)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiteshKumar2e&theme=radical&utcOffset=5.5)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/RiteshKumar2e">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/RiteshKumar2e">
+    <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/RiteshKumar2e">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&custom_title=Ritesh's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  </a>
+</p>
 
 ---
 
@@ -136,16 +145,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff)
-  
-</div>
-
----
-
 ### 💼 Recent Projects
 
 <table align="center">
@@ -207,5 +206,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave"/>
 </p>
