@@ -156,14 +156,29 @@
 </table>
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshKumar2e&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiteshKumar2e&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark&hide_border=true" width="600"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark&hide_border=true" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
 
 ### ✨ Visitor Count
 
