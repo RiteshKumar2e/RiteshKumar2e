@@ -18,25 +18,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark&hide_border=true" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark&hide_border=true" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=dark&hide_border=true" width="600"/>
-</p>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
 
 
 ### 👨‍💻 About Me
