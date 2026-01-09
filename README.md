@@ -35,35 +35,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
----
-
-### 🔥 GitHub Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🔥 Featured Project: Quickfix
 
 <p align="center">
@@ -78,7 +49,7 @@
 **🤖 AI-Powered Customer Complaint Management System**
 
 **Key Features:**
-- ⚡ **Multi-Tier AI System**: Groq → Gemini → Local LLM → Rule-based
+- ⚡ **Multi-Tier AI System**: Groq  → Gemini → Local LLM → Rule-based
 - 🚀 **Ultra-Fast**: 50-100ms response time with 100% uptime guarantee
 - 💰 **Cost-Effective**: $0/month with 15,900+ free daily requests
 - 🎯 **Intelligent**: Auto-classification, priority detection, sentiment analysis
@@ -95,6 +66,7 @@
 - 📈 95% reduction in response time (2-3 hours → <200ms)
 - 💵 90% cost reduction in AI operations
 - 🎯 100% reliability with intelligent fallback system
+
 
 ---
 
@@ -131,6 +103,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
 
 ### 🔗 Connect With Me
 
@@ -184,40 +157,11 @@
 
 ---
 
-### 📈 Contribution Metrics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshKumar2e&theme=tokyonight" alt="Profile Summary" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiteshKumar2e&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiteshKumar2e&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiteshKumar2e&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiteshKumar2e&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RiteshKumar2e/RiteshKumar2e/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ### ✨ Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshKumar2e&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/RiteshKumar2e">RiteshKumar2e</a> - Let's build something amazing together!</i>
 </p>
