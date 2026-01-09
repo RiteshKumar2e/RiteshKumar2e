@@ -38,7 +38,7 @@
 ### 🔥 Featured Project: Quickfix
 
 <p align="center">
-  <a href="https://customer-complaint-agent-new-1.onrender.com">
+  <a href="https://riteshkr.online/">
     <img src="https://img.shields.io/badge/Live_Demo-Quickfix-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/RiteshKumar2e/customer-complaint-agent_new">
@@ -49,7 +49,7 @@
 **🤖 AI-Powered Customer Complaint Management System**
 
 **Key Features:**
-- ⚡ **Multi-Tier AI System**: Groq (20+ models) → Gemini → Local LLM → Rule-based
+- ⚡ **Multi-Tier AI System**: Groq  → Gemini → Local LLM → Rule-based
 - 🚀 **Ultra-Fast**: 50-100ms response time with 100% uptime guarantee
 - 💰 **Cost-Effective**: $0/month with 15,900+ free daily requests
 - 🎯 **Intelligent**: Auto-classification, priority detection, sentiment analysis
@@ -60,14 +60,13 @@
 - **Backend**: FastAPI, Python, SQLAlchemy, PostgreSQL
 - **Frontend**: React.js, Material-UI, Real-time updates
 - **AI/ML**: Groq API (Llama 3.3), Google Gemini, Local LLM, NLP
-- **DevOps**: Docker, Render, CI/CD, Automated testing
 - **APIs**: Brevo Email, JWT Auth, RESTful architecture
 
 **Impact:**
 - 📈 95% reduction in response time (2-3 hours → <200ms)
 - 💵 90% cost reduction in AI operations
 - 🎯 100% reliability with intelligent fallback system
-- 📊 Processing 15,900+ requests daily at zero cost
+
 
 ---
 
@@ -192,8 +191,3 @@
   <img src="https://komarev.com/ghpvc/?username=RiteshKumar2e&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
