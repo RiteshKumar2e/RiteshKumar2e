@@ -15,40 +15,31 @@
 
 ---
 
-### 📊 GitHub Stats Overview
+### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/RiteshKumar2e">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RiteshKumar2e">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&theme=vue-dark&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RiteshKumar2e&theme=vue-dark&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <a href="https://github.com/RiteshKumar2e">
-    <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/RiteshKumar2e">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&custom_title=Ritesh's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</p>
+[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark)](https://github.com/RiteshKumar2e)
 
 ---
 
