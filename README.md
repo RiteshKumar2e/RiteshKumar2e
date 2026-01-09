@@ -17,23 +17,29 @@
 
 ### 📊 GitHub Stats Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=ffffff)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=ffffff" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiteshKumar2e&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
-</p>
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=ffffff)
+  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiteshKumar2e&theme=radical&utcOffset=5.5)
+  
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  
+</div>
 
 ---
 
@@ -132,9 +138,11 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff" alt="Contribution Graph" />
-</p>
+<div align="center">
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff)
+  
+</div>
 
 ---
 
