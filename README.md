@@ -18,13 +18,15 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark&hide_border=true" width="600"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&theme=vue-dark&hide_border=true&layout=compact" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RiteshKumar2e&theme=vue-dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark&hide_border=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=dark&hide_border=true" width="600"/>
 </p>
 
 ---
@@ -32,16 +34,10 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
----
 
-### 📈 Contribution Graph
-
-[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiteshKumar2e&theme=react-dark)](https://github.com/RiteshKumar2e)
-
----
 
 ### 👨‍💻 About Me
 
