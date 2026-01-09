@@ -106,9 +106,12 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=tokyonight" height="150"/>
 </p>
+
 [![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riteshkumar2e)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Connect With Me
