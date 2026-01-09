@@ -156,9 +156,14 @@
 </table>
 
 ---
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=radical&hide_border=true" width="600"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumar2e&theme=dark&hide_border=true" width="600"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=dark&hide_border=true" width="600"/>
+</p>
 
 ### ✨ Visitor Count
 
