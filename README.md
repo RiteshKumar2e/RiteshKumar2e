@@ -114,7 +114,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumar2e&layout=compact&theme=tokyonight" height="130"/>
 </p>
-
+[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riteshkumar2e)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Connect With Me
 
