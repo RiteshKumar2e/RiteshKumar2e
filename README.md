@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://riteshkumar2e.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Engineer;SpringBoot+%26+FastAPI+Expert;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Engineer;+FastAPI+Expert;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
