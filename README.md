@@ -27,7 +27,7 @@
   - Using **SIC** and **NEU-DET** datasets for 6 defect classes
   - Applying advanced ML techniques for accurate defect identification
 
-- 🌱 Learning **FastAPI, SpringBoot, TensorFlow, Keras, and Advanced AI/ML**
+- 🌱 Learning **FastAPI,  TensorFlow, Keras, and Advanced AI/ML**
 - 💬 Ask me about: `Python`, `FastAPI`, `React`, `AI/ML`, `SpringBoot`, `PostgreSQL`
 - 📫 Reach me at: [riteshkumar90359@gmail.com](mailto:riteshkumar90359@gmail.com)
 - 🌐 Visit my [Portfolio](https://riteshkumar2e.github.io/Portfolio/)
