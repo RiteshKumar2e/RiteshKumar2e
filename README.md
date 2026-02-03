@@ -10,9 +10,16 @@
 </p>
 
 <!-- GIF -->
+<!-- GIF -->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="developer animation"/>
 </p>
+
+<!-- Space Shooter Contribution Game -->
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 
 ---
 
