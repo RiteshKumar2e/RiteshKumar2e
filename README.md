@@ -1,4 +1,3 @@
-
 <!-- Animated Heading -->
 <h1 align="center">Hi there, I'm <span style="color:#5bc0de">Ritesh Kumar</span> 👋</h1>
 
@@ -47,7 +46,7 @@
 
 <p align="center">
   <a href="https://riteshkr.online/">
-    <img src="https://img.shields.io/badge/Live_Demo-Quickfix-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live-Quickfix-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
   </a>
   <a href="https://github.com/RiteshKumar2e/customer-complaint-agent_new">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
