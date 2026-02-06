@@ -36,7 +36,7 @@
   - Applying advanced ML techniques for accurate defect identification
 
 - 🌱 Learning **FastAPI,  TensorFlow, Keras, and Advanced AI/ML**
-- 💬 Ask me about: `Python`, `FastAPI`, `React`, `AI/ML`, `SpringBoot`, `PostgreSQL`
+- 💬 Ask me about: `Python`, `FastAPI`, `React`, `AI/ML`, `PostgreSQL`
 - 📫 Reach me at: [riteshkumar90359@gmail.com](mailto:riteshkumar90359@gmail.com)
 - 🌐 Visit my [Portfolio](https://riteshkumar2e.github.io/Portfolio/)
 - ⚡ Fun Fact: I love building intelligent systems that solve real-world problems!
@@ -90,7 +90,6 @@
 **Frameworks & Libraries:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
