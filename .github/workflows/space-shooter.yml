@@ -22,4 +22,4 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: assets/space-shooter.gif
-          strategy: deterministic
+          strategy: column
