@@ -128,9 +128,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=onedark" />
-</p>
+
 
 ### 🔗 Connect With Me
 
