@@ -124,12 +124,9 @@
 
 ## 🏆 GitHub Trophies
 
-
-
 <p align="center">
-  <img src="https://https://rktrophy.vercel.app//?username=RiteshKumar2e&theme=radical&margin-w=10" />
+  <img src="https://rktrophy.vercel.app/?username=RiteshKumar2e&theme=radical&margin-w=10" />
 </p>
-
 
 
 ### 🔗 Connect With Me
