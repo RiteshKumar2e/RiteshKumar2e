@@ -122,7 +122,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="165"/>
 </p>
 
