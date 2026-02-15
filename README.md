@@ -131,10 +131,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/RiteshKumar2e?style=for-the-badge&logo=github&label=GitHub%20Stars" />
-  <img src="https://img.shields.io/github/followers/RiteshKumar2e?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/commit-activity/m/RiteshKumar2e/graph-activity?style=for-the-badge&logo=git&label=Commit%20Activity" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="165"/>
 </p>
+
 
 ### 🔗 Connect With Me
 
