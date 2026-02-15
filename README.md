@@ -129,9 +129,12 @@
 
 ## 🏆 GitHub Trophies
 
+## 📊 GitHub Summary
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshKumar2e&theme=tokyonight" />
 </p>
+
 
 ### 🔗 Connect With Me
 
