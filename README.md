@@ -120,18 +120,17 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" height="165"/>
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
-
 
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=onedark&no-frame=true&no-bg=true" />
+  <img src="https://rktrophy.vercel.app/?username=RiteshKumar2e&theme=onedark&no-frame=true&no-bg=true&margin-w=12" />
 </p>
+
 
 
 ### 🔗 Connect With Me
