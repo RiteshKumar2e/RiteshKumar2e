@@ -81,19 +81,6 @@
 
 
 ---
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,fastapi,react,tensorflow,keras,numpy,pandas,opencv,postgres,mysql,git,docker,vscode&theme=dark" />
-
-</p>
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,fastapi,react,tensorflow,keras,numpy,pandas,opencv,postgres,mysql,git,docker,vscode&theme=dark&perline=8" />
-</p>
 
 ### 🛠️ Tech Stack
 
