@@ -131,12 +131,7 @@
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" />
-</p>
 
 
 ## 🏆 GitHub Trophies
