@@ -125,6 +125,21 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=86400" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&border_radius=12" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&border_radius=12" />
+</p>
+
+
+
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
