@@ -128,7 +128,7 @@
   <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
 
-
+[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riteshkumar2e)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
