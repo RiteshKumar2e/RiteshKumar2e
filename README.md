@@ -130,9 +130,7 @@
   <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=60" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="165"/>
-</p>
+
 
 
 ## 🏆 GitHub Trophies
