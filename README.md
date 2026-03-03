@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=60" height="165"/>
 </p>
 
 
