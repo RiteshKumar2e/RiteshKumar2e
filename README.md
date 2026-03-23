@@ -124,7 +124,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RiteshKumar2e&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RiteshKumar2e&theme=tokyonight" height = "170" />
 </p>
 
 <p align="center">
