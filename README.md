@@ -137,9 +137,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/Top%20Contributor-Yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-4.5k-green?style=for-the-badge"/>
 </p>
-
 ### 🔗 Connect With Me
 
 <p align="center">
