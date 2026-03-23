@@ -133,13 +133,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=onedark&no-frame=true&no-bg=true&margin-w=12&rank=-C,-?" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=onedark&no-frame=true&no-bg=true&margin-w=12" />
+</p>>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Contributor-Yes-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-4.5k-green?style=for-the-badge"/>
-</p>
+
 ### 🔗 Connect With Me
 
 <p align="center">
