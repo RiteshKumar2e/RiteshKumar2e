@@ -123,8 +123,8 @@
 
 ### 📊 GitHub Stats
 
- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/High%20Activity-4.5k%20Commits-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
