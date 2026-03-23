@@ -125,12 +125,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="170"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RiteshKumar2e&theme=tokyonight" height = "170" />
 
 </p>
@@ -142,7 +136,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=onedark&no-frame=true&no-bg=true&margin-w=12&rank=-C,-?" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumar2e&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
+</p>
 
 ### 🔗 Connect With Me
 
