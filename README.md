@@ -123,7 +123,9 @@
 
 ### 📊 GitHub Stats
 
- 
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
