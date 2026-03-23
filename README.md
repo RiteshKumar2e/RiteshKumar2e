@@ -127,8 +127,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=RiteshKumar2e&theme=tokyonight" height = "170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RiteshKumar2e&theme=tokyonight" height = "170" />
 
 </p>
 
