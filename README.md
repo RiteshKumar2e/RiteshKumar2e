@@ -125,7 +125,10 @@
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" height="165"/>
 </p>
-
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riteshkumar2e&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riteshkumar2e&theme=tokyonight" height="150"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight&cache_seconds=60" height="165"/>
 </p>
