@@ -124,8 +124,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/High%20Activity-4.5k%20Commits-blue?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=RiteshKumar2e&theme=tokyonight" height="170"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumar2e&show_icons=true&theme=tokyonight" height="170"/>
